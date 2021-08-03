@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Lover of new technologies, self-taught by birth with a great passion for development, so I earn a living. I have more than 15 years of experience where I have been able to specialize in both backend,frontend and mobile, so I consider myself a fullstack programmer because I have been able to work with several programming languages.
+
+Full stack developer with extensive knowledge in various technologies
+
+
 <!--
 **jestevez/jestevez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
